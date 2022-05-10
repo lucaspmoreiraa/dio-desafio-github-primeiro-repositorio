@@ -1,4 +1,4 @@
-# Códigos úteis para o Git/GitHub:computer:
+# Códigos úteis para o Git e GitHub:computer:
 
 *No documento abaixo listo alguns comandos importantes aprendidos no curso sobre Git e Git Hub utilizando o programa Git Bash*.
 
