@@ -4,13 +4,19 @@ body{
 }
 #title {
 	color: #B8860B;
+	font-family: Verdana;
+	margin: 0;
+	margin-top: 15px; 
+	margin-bottom: 20px;
 }
 .subtitle {
 	color: #101113;
-}
-
-.post_title {
-	color: #101113;
+	font-family: Verdana;
+	font-style: italic;
+	font-size: 15px;
+	margin: 0;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .post_title{
@@ -37,4 +43,15 @@ body{
 .post_content{
 	margin: 0;
 	margin-bottom: 15px;
+}
+
+a {
+	text-decoration: underline;
+	color: #B8860B
+}
+
+.contacts_list{
+	list-style-type: square;
+	color: #EEAD2D;
+	padding-left: 15px;
 }
